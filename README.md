@@ -1,7 +1,7 @@
 # Graduate-Spatial-Analysis-Project
 Spatial Prediction and Regression Analysis of Homeless Populations in Chattanooga, TN
 
-##**1. Project Design**
+**##1. Project Design**
 -Gather Point in Time counts of the homeless population of the Greater Chattanooga Area from organizations in Chattanooga that service the homeless population.
 
 -Then perform spatial analysis to show the areas in which the homeless population tend to be most highly represented, as well as areas in which high populations of the homeless exist without adequate resources in the immediate area to service this population. 
