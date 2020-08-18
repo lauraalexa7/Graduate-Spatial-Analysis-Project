@@ -24,6 +24,9 @@ This data was then analyzed using ESRI GIS tools.
 
 * The optimized explanatory variables used in the regression analysis are: 1) Population 2) Household Median Income 3) Number of Households under Poverty Level 4) Number of Adults with No High School Diploma 5) Unemployment 6) Number of Individuals Utilizing Public Transportation.
 
+* β0 + β1(population) + β2(# of adults with no high school diploma) + β3(# of households under poverty level) + β4(unemployment rate) + β5(# of adults utilizing public transportation) + β6(average annual cost of living) + ε
+
+
 * The explanatory variables chosen for Ordinary Least Squares regression analysis were in chose in consideration with the contributing factors of homelessness cited in research (local and otherwise), as well as the data available for regression analysis within available analysis tools. 
 
 * These variables were optimized using exploratory regression analysis prior to OLS. 
